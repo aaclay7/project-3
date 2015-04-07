@@ -1,0 +1,16 @@
+body {
+    font-family: Times;
+    
+}
+
+hr {
+    border: none;
+    height: 10px;
+    /* Set the hr color */
+    color: #000000;
+    background-color: #333; /* Modern Browsers */
+}
+
+.graybox {
+    color: grey;
+}

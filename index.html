@@ -1,0 +1,340 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<meta Content-Type: text/html; charset=utf-8>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1"> 
+<html xmlns="http://www.w3.org/1999/xhtml">
+  
+<head>
+    <title>Los Angeles Times: 2013 Cat Intake</title>
+    
+     <!-- CSS -->
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/css/bootstrap.min.css">
+     <link href="styles.css" rel="stylesheet">
+      
+    <!-- HighCharts-->
+      <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js" type="text/javascript"></script>
+    <script src="http://code.highcharts.com/highcharts.js"></script>
+    
+    
+     <!--  Bootstrap -->
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.2.0/js/bootstrap.min.js"></script>
+    
+    <!-- DataTables JS -->
+    
+    <script src="http://cdn.datatables.net/1.10.6/js/jquery.dataTables.min.js"></script>
+    <script src="http://cdn.datatables.net/responsive/1.0.5/js/dataTables.responsive.js"></script>
+    <script language="javascript" type="text/javascript" src="script.js"></script>
+    <script src="js/chart-style.js"></script>
+    <script src="js/datatable2.js"></script>
+
+    
+    
+   
+
+    <script type="text/javascript">
+    
+    
+    
+         $(function () { 
+    $('#bar-chart').highcharts({
+        colors: ['#d2b48c', '#028482', '#000000', 'grey' ],
+        chart: {
+            type: 'bar'
+        },
+        title: {
+            text: '2013 Seasonal Cat Intake'
+        },
+        xAxis: {
+            categories: ['Fall', 'Winter', 'Spring', 'Summer',]
+        },
+        yAxis: {
+            title: {
+                text: 'Number of Cats'
+            }
+        },
+        labels:{
+            items: [{ 
+                html: "this is my label",
+                style: {
+                        left: '900px',
+                        bottom: '0px',
+                    
+                }
+            }]
+        },
+        
+        series: [{
+            name: 'Dead',
+            data: [45, 30, 28, 41]
+        }, {
+            name: 'Alive',
+            data: [815, 459, 773, 1111]
+          
+        },
+        {
+            name: 'Litter',
+            data: [20, 2, 100, 56]
+        }, {
+            name: '<8 Weeks',
+            data: [391, 15, 862,736]
+          
+        }]
+    });
+});
+
+    $(function () {
+    $('#chart1').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+        title: {
+            text: 'Intake July-December 2013'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Intake',
+            data: [
+                 {
+                    name: 'July',
+                    y: 24.4,
+                    sliced: true,
+                    selected: true
+                },
+                ['August',       23.1],
+                ['September',    18.7],
+                ['October',    16.4],
+                ['November',     11],
+                ['December',   6.4]
+            ]
+        }]
+    });
+});
+    
+        $(function () {
+    $('#chart2').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+        title: {
+            text: 'Intake January-June 2013'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Intake',
+            data: [
+                ['January',   6.7],
+                ['Febuary',       5.4],
+                 ['March',       10.7],
+                {
+                    name: 'April',
+                    y: 25.6,
+                    sliced: true,
+                    selected: true
+                },
+                ['May',     29.2],
+                ['June',   23.4]
+            ]
+        }]
+    });
+});
+        
+        $(document).ready(function() {
+          
+                  $.ajax({
+		type: "GET",
+		url: "datatable.json",
+		dataType: "json",
+	
+		});
+                  
+    $('#example').dataTable( {
+        "ajax": 'datatable.json',
+    } );
+} );
+        
+</script>
+</head>
+
+<body>
+    <!--Header -->
+    <div class="header" align="center">
+        <img src="images/header.png" width="85%" heigth="50%"> 
+    </div> <br>
+   
+    
+<div class="container">
+    <div class="row">
+        <div class="col-md-12">
+   
+     <!--Title -->
+     <h1><span style="color:teal">Department of Animal Services Cat Intake 2013</span></h1>
+     <h4>By Alexandria Clayton</h4>
+    <br>
+      <!--Cat Eyes -->
+  <div class="boxed" align="center">
+    <h2><span style="color:white">A closer look at the conditions of cats collected in Los Angeles, California</span></h2>
+  </div>
+  <br>
+    <!--Intro -->
+    <h2><span style="color:teal">Why do cats matter?</h2>
+  <p>Cats are the most popular pet in the United States: There are 88 million pet cats and 74 million dogs. Although many cats have loving homes, many are not so lucky. Thousands of cats are abandoned and left for dead on the streets of busy cities, such as Los Angeles.
+     The Department of Animal Services has picked up a numerous amount of strays off the streets in a matter of a year. People must take responsiblity for domestic cats and take preventive measures, such as micro-chipping and neutering, to decrease the amount of stray cats.
+    Unfortunately, most cats are euthanized after spending a specified amount of time at a shelter.</P>
+    <br>
+
+    <!--Percent Quotes -->
+        <img src="images/percent.png" align="left" width="50%" height="50%">
+      <img src="images/percent2.png" align="left" width="50%" height="50%">
+      
+      <br>
+      <br>
+ 
+    <div class="row">
+    <div class="col-md-12">
+  
+  <!--Bar Chart -->    
+<div align="center"><div id="bar-chart" style="width:100%; height:400px; float:left;"></div></div>
+        
+   
+ <!--Accordion -->       
+      <h2><span style="color:teal">Total Seasonal Cat Intake</h3>
+      <div class="panel-group" id="accordion">
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title" style="color:teal">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse1"><h3>Fall</h3></a>
+            </h4>
+          </div>
+          <div id="collapse1" class="panel-collapse collapse in">
+            <div class="panel-body"><p>In Fall of 2013, the Department of Animal Services collected 1,269 cats.</p></div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title" style="color:teal">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse2"><h3>Winter</h3></a>
+            </h4>
+          </div>
+          <div id="collapse2" class="panel-collapse collapse">
+            <div class="panel-body"><p>In Winter of 2013, the Department of Animal Services collected 506 cats.</p></div>
+          </div>
+        </div>
+        <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title" style="color:teal">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse3"><h3>Spring</h3></a>
+            </h4>
+          </div>
+          <div id="collapse3" class="panel-collapse collapse">
+            <div class="panel-body"><p>In Spring of 2013, the Department of Animal Services collected 1,766 cats.</p></div>
+          </div>
+        </div>
+          <div class="panel panel-default">
+          <div class="panel-heading">
+            <h4 class="panel-title" style="color:teal">
+              <a data-toggle="collapse" data-parent="#accordion" href="#collapse4"><h3>Summer</h3></a>
+            </h4>
+          </div>
+          <div id="collapse4" class="panel-collapse collapse">
+            <div class="panel-body"><p>In Summer of 2013, the Department of Animal Services collected 1,902 cats.</p></div>
+          </div>
+        </div>
+      </div> 
+    </div>
+</div>
+
+  <br>
+  <br>
+    <!--Quote -->
+      <h3><span style="color:teal">"In this country tax-payers spend $1 billion dollars annually to pick up, house, and euthanize homeless animals. If only 5% of that total were allocated to spay/neuter programs, we could open 250 public, low-cost spay/neuter clinics across the country and sterilize more than $4 million animals each year."
+     <br>
+      <i>-ryannewmanfoundation.org/news</i></span></h3></p>
+   <br>
+    <br>
+
+<!--Pie Chartss -->   
+<div id="chart1" style="width:50%; height:400px; float:right;"></div>
+<div id="chart2" style="width:50%; height:400px; float:left;"></div>
+
+<br>
+<br>
+
+
+<!--Datatable -->
+<div class="container">
+<h2><span style="color:teal">Cat Intake for 2013</span></h2>
+
+<table id="example" class="display" cellspacing="0" width="100%">
+        <thead>
+            <tr>
+                <th>Date</th>
+                <th>Type</th>
+                <th>Condition</th>
+                <th>Group</th>
+                <th>Breed</th>
+            </tr>
+        </thead>
+ 
+        <tfoot>
+            <tr>
+                <th>Date</th>
+                <th>Type</th>
+                <th>Condition</th>
+                <th>Group</th>
+                <th>Breed</th>
+            </tr>
+        </tfoot>
+</table>
+</div>
+<p><strong>Source: </strong><a href="https://data.lacity.org/A-Well-Run-City/Animal-Services-Intake-Data/8cmr-fbcu?" target="_blank" class="link" style="color:teal">Data LA City</a></p>
+   
+<br>
+  <br>
+
+  
+    </div>
+  </div>
+ <!--footer-->        
+  <div class="row footer"
+    <div id="footer">
+      <span class="footertext">
+        <p><a href="http://www.latimes.com/" style="color:teal">LA Times</a>&nbsp; | &nbsp; <a href="http://www.laanimalservices.com/" style="color:teal">Department of Animals</a> &nbsp; | &nbsp; <a href="http://www.animalplanet.com/pets/cat-facts/" style="color:teal">Cats Facts</a> 
+        </span></span></p>
+</body>
+</html>

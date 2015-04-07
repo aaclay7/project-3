@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<meta Content-Type: text/html; charset=utf-8>
+<html>
+<head>
+    <title>Page Title</title>
+    
+    <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="http://code.highcharts.com/highcharts.js"></script>
+<script src="dark-theme.js"></script>
+
+<script>
+    
+    $(function () { 
+    $('#bar-chart').highcharts({
+        chart: {
+            type: 'column'
+        },
+        title: {
+            text: 'Project Grades'
+        },
+        xAxis: {
+            categories: ['Project 1', 'Project 2', 'Project 3']
+        },
+        yAxis: {
+            title: {
+                text: 'Test grades'
+            }
+        },
+        labels:{
+            items: [{ 
+                html: "this is my label",
+                style: {
+                        left: '900px',
+                        bottom: '0px',
+                    
+                }
+            }]
+        },
+        
+        series: [{
+            name: 'Alex',
+            data: [80, 85, 90]
+        }, {
+            name: 'Steven',
+            data: [75, 80, 95]
+        }]
+    });
+});
+    
+    
+    $(function () {
+    $('#pie-chart').highcharts({
+        chart: {
+            plotBackgroundColor: null,
+            plotBorderWidth: null,
+            plotShadow: false
+        },
+        title: {
+            text: 'Browser market shares at a specific website, 2014'
+        },
+        tooltip: {
+            pointFormat: '{series.name}: <b>{point.percentage:.1f}%</b>'
+        },
+        plotOptions: {
+            pie: {
+                allowPointSelect: true,
+                cursor: 'pointer',
+                dataLabels: {
+                    enabled: true,
+                    format: '<b>{point.name}</b>: {point.percentage:.1f} %',
+                    style: {
+                        color: (Highcharts.theme && Highcharts.theme.contrastTextColor) || 'black'
+                    }
+                }
+            }
+        },
+        series: [{
+            type: 'pie',
+            name: 'Browser share',
+            data: [
+                ['Firefox',   45.0],
+                ['IE',       26.8],
+                {
+                    name: 'Chrome',
+                    y: 12.8,
+                    sliced: true,
+                    selected: true
+                },
+                ['Safari',    8.5],
+                ['Opera',     6.2],
+                ['Others',   0.7]
+            ]
+        }]
+    });
+});
+
+    
+</script>
+</head>
+
+<body>
+    <div align="center">
+<img src="images/latimes.png" width="50%" heigth="50%">
+    </div>
+
+<div id="bar-chart" style="width:100%; height:400px;"></div>
+
+
+</body>
+</html>

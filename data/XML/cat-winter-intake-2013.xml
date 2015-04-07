@@ -1,0 +1,4059 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<cats>
+<cat>
+<date>Intake Date</date>
+<FIELD2>Intake Type</FIELD2>
+<condition>Intake Condition</condition>
+<FIELD4>Animal Type</FIELD4>
+<group>Group</group>
+<breed>Breed</breed>
+</cat>
+<cat>
+<date>1/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/2/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/2/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/2/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/4/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/5/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/5/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/5/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/5/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>MAINE COON</breed>
+</cat>
+<cat>
+<date>1/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/6/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/7/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/9/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/10/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/10/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/10/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/10/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/10/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/10/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/11/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/11/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/11/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/11/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/11/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>ABYSSINIAN</breed>
+</cat>
+<cat>
+<date>1/11/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/12/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/12/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/12/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/14/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>1/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/16/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/17/13</date>
+<FIELD2>EVIDENCE</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/18/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/18/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/18/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/18/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/18/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/18/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/19/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/19/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/20/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/20/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/21/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/21/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/22/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/22/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/22/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SNOWSHOE</breed>
+</cat>
+<cat>
+<date>1/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/24/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/25/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/27/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>1/27/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/27/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/27/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SNOWSHOE</breed>
+</cat>
+<cat>
+<date>1/27/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/28/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/28/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>RUSSIAN BLUE</breed>
+</cat>
+<cat>
+<date>1/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>1/29/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/29/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/29/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/29/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/29/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/29/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/29/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/29/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/30/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>1/30/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/30/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/30/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/30/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>1/30/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/31/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/31/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>1/31/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>1/31/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>1/31/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/1/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/2/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/2/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/2/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>MAINE COON</breed>
+</cat>
+<cat>
+<date>2/2/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/2/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/4/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/4/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>CHARTREUX</breed>
+</cat>
+<cat>
+<date>2/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/4/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/4/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/7/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/8/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/9/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/9/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/10/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/10/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/10/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/10/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/10/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/11/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/11/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/11/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/11/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/13/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/13/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/13/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/14/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/18/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/18/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/18/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/19/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/20/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>RUSSIAN BLUE</breed>
+</cat>
+<cat>
+<date>2/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/21/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/21/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/22/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/22/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/22/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/25/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>2/25/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/25/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>BOMBAY</breed>
+</cat>
+<cat>
+<date>2/25/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/25/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>LITTER</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>LITTER</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>2/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/27/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/27/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>2/27/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/27/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/27/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/27/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SNOWSHOE</breed>
+</cat>
+<cat>
+<date>2/27/13</date>
+<FIELD2>EVIDENCE</FIELD2>
+<condition>DEAD</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/27/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>2/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>2/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>MAINE COON</breed>
+</cat>
+<cat>
+<date>2/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/1/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/1/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/2/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/2/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/3/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>PERS PROP</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/4/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/5/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>HIMALAYAN</breed>
+</cat>
+<cat>
+<date>12/5/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>HIMALAYAN</breed>
+</cat>
+<cat>
+<date>12/5/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/6/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/7/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/7/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/7/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/7/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/8/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/9/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/9/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/10/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/10/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/10/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/10/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/10/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/11/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/11/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/12/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/12/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/12/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/12/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/12/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/12/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>BIRMAN</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/13/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SNOWSHOE</breed>
+</cat>
+<cat>
+<date>12/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/14/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/15/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/15/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>&lt; 8 WEEKS</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/16/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/16/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/17/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/17/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/18/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/19/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/19/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/20/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/20/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/20/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/20/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/20/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/20/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/20/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>PERSIAN</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/21/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/22/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/22/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>LONGHAIR</group>
+<breed>MAINE COON</breed>
+</cat>
+<cat>
+<date>12/22/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/23/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/23/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/23/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC MH</breed>
+</cat>
+<cat>
+<date>12/23/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/24/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/24/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/25/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/25/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/26/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/26/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/26/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/26/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/27/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/27/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/27/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/27/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/28/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>DOMESTIC LH</breed>
+</cat>
+<cat>
+<date>12/28/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/29/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+<cat>
+<date>12/30/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>LONGHAIR</group>
+<breed>MAINE COON</breed>
+</cat>
+<cat>
+<date>12/30/13</date>
+<FIELD2>OWNER SUR</FIELD2>
+<condition>DEAD</condition>
+
+<group>SHORTHAIR</group>
+<breed>SIAMESE</breed>
+</cat>
+<cat>
+<date>12/31/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/31/13</date>
+<FIELD2>STRAY</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>DOMESTIC SH</breed>
+</cat>
+<cat>
+<date>12/31/13</date>
+<FIELD2>POS OWNER</FIELD2>
+<condition>ALIVE</condition>
+
+<group>SHORTHAIR</group>
+<breed>AMER SH</breed>
+</cat>
+</cats>
