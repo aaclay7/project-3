@@ -18,41 +18,35 @@ panel panel-default {
   
 }
 
-.boxed2 {
-  border: 1px solid black ;
-  height: auto;
-  border-radius: 15px;
-  background-size: 100%;
-  padding: 50px;
-  
-  
-  
-}
-
 
 h1 {
     font-family: "Didot";
-    font-size: 36pt;
+    font-size: 40pt;
+    color: teal;
 }
 
 h2 {
     font-family: "Didot";
     font-size: 32pt;
+    color: teal;
 }
 
 h3 {
     font-family: "Didot";
     font-size: 18pt;
+    color: teal;
 }
 
 h4 {
     font-family: "Didot";
     font-size: 14pt;
+    color: teal;
 }
 
 
 p {
-    font-size: 12pt;
+    font-size: 16pt;
+    font-family: "Didot"
 }
 
 .footer {

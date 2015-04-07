@@ -1,5 +1,5 @@
 $(document).ready(function() {
     $('#example').dataTable( {
-        "ajax": 'spring.json',
+        "ajax": 'datatable.json',
     } );
 } );

@@ -5,19 +5,19 @@ Highcharts.theme = {
     title: {
         style: {
             color: '#000',
-            font: '24pt Dense-Regular, Times, serif',
+            font: '24pt Didot, Times, serif',
         }
     },
     subtitle: {
         style: {
             color: '#666666',
-            font: 'bold 11pt Dense-Regular, Times, serif',
+            font: 'bold 11pt Didot, Times, serif',
         }
     },
 
     legend: {
         itemStyle: {
-            font: '14pt Dense-Regular, Times, serif',
+            font: '14pt Didot, Times, serif',
             color: 'black'
         },
         itemHoverStyle:{
